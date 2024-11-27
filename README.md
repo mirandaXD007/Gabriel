@@ -8,4 +8,4 @@ Meu nome é Gabriel
 
 - ## Você entrar em contato 📫
 - gabriel.miranda08@escola.pr.gov.br
-- @
+
